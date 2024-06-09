@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan 
-- 👀 I’m interested in product deisgn and innovation
-- 🌱 I’m currently studying electrical engineering 
+- 👀 I’m interested in innovation and software development
+- 🌱 I’m currently studying electrical & computer engineering 
 - 💞️ I’m looking to collaborate on new ideas
 
 <!---
